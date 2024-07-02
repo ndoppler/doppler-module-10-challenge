@@ -1,0 +1,9 @@
+circle {
+    stroke: black;
+    stroke-width: 3;
+}
+
+text {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
