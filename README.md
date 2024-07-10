@@ -19,4 +19,4 @@ I also utilized the Xpert Learning Assistant provided by the University of Minne
 
 ## Website Functionality Video
 
-The website functionality can be viewed by navigating to the following [Google Drive Link](https://drive.google.com/file/d/15O1pu0YN7rgAG5Q7sddSj1GqXkOOW9hz/view?usp=sharing) and watching the video for a full demo.
+The website functionality can be viewed by navigating to the following [Google Drive Link](https://drive.google.com/file/d/1aNi_fd3WfVvz3EvWj6-eg0-djavvjMFL/view?usp=drive_link) and watching the video for a full demo.
